@@ -1,3 +1,5 @@
+Soluzione in Java di un complesso problema del commesso viaggiatore, noti anche come "TCP problems"
+
 UTILIZZO DEL SOLVER:
 
 Per utilizzare il nostro solver occorre: 
